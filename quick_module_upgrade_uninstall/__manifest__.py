@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of AktivSoftware See LICENSE file for full
-# copyright and licensing details.
+# Part of AktivSoftware See LICENSE file for full copyright and licensing details.
 {
     'name': 'Quick Module Upgrade/Uninstall',
     'summary': 'Allow users to upgrade & uninstall apps from kanban',
@@ -11,7 +10,7 @@
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
     'category': 'Tools',
-    'version': '11.0.1.0.0',
+    'version': '10.0.1.0.0',
     'depends': ['base'],
     'data': [
         'views/templates.xml',

@@ -4,7 +4,7 @@ This module implements Upgrade and Uninstall facility at kanban view of Applicat
 
 ## Version
 
-V11
+v10
 
 ## Installation 
 
@@ -25,4 +25,3 @@ This module will bring these two buttons of Upgrade & Uninstall into kanban.So u
 ## Bug Tracker
 
 In case of trouble, please contact us at sales@aktivsoftware.com
-
