@@ -4,7 +4,7 @@ This module implements Upgrade and Uninstall facility at kanban view of Applicat
 
 ## Version
 
-v10
+v9
 
 ## Installation 
 

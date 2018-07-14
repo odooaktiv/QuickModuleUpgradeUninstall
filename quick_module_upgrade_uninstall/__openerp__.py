@@ -10,7 +10,7 @@
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
     'category': 'Tools',
-    'version': '10.0.1.0.0',
+    'version': '9.0.1.0.0',
     'depends': ['base'],
     'data': [
         'views/templates.xml',
