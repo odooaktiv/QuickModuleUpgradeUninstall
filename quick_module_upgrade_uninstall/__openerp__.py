@@ -11,6 +11,7 @@
     'website': 'www.aktivsoftware.com',
     'category': 'Tools',
     'version': '9.0.1.0.0',
+    'license': 'AGPL-3',
     'depends': ['base'],
     'data': [
         'views/templates.xml',
