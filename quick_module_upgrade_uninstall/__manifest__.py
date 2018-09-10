@@ -9,6 +9,7 @@
     """,
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
+    'license': 'AGPL-3',
     'category': 'Tools',
     'version': '10.0.1.0.0',
     'depends': ['base'],
